@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107020361702",
+    "project_id": "newstrata-bc19f",
+    "storage_bucket": "newstrata-bc19f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107020361702:android:586d4957aa070bd430c027",
+        "android_client_info": {
+          "package_name": "com.example.newstrata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIeb6phAR8AAOlfkAcOGIVcRd5ViASTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
